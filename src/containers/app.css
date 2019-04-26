@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'monster';
+    src: url(MW.ttf);
+}
+
+.tc h1 {
+    font-family: monster;
+    font-size: 2.5rem;
+}
+
+.load h1 {
+    padding: 80px;
+    font-size: 80px;
+}
